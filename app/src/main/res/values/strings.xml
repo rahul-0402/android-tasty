@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tasty</string>
+    <string name="label_explore">Explore</string>
+    <string name="label_favourite">Favourite</string>
+    <string name="label_list">List</string>
+    <string name="hint_search_for_recipes">Search For Recipes</string>
+    <string name="error_something_went_wrong">Oops, something went wrong.</string>
+    <string name="error_no_internet_connection">Hmm…it looks like you\'re offline.</string>
+    <string name="label_presented_by">Presented by&#160;</string>
+    <string name="label_featured_in">Featured in&#160;</string>
+    <string name="label_would_make_this_again">&#160;would make this again</string>
+    <string name="label_nutritional_info">Nutritional Info</string>
+    <string name="label_hide_info">Hide Info - </string>
+    <string name="label_view_info">View Info + </string>
+    <string name="label_ingredients">Ingredients</string>
+    <string name="label_preparation">Preparation</string>
+    <string name="label_try_again">Try Again</string>
+</resources>
